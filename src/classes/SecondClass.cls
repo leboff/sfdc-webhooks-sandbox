@@ -5,4 +5,7 @@ public with sharing class SecondClass {
 		System.debug('what are the odds boy');
 		System.debug('big money, no whammies?');
 	}
+	public void foo(){
+		System.debug('bar');
+	}
 }
