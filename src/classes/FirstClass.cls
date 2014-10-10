@@ -3,9 +3,9 @@ public with sharing class FirstClass {
     public FirstClass() {
         SecondClass two = new SecondClass();
         two.foo();
-	System.debug('something');
+		System.debug('something!');
     }
     public void donothing(){
-        String ok = 'ok';
+        String ok = 'ok!';
     }
 }
