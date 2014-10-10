@@ -6,6 +6,6 @@ public with sharing class SecondClass {
 		System.debug('big money -- no whammies!!!!');
 	}
 	public void foo(){
-		System.debug('bar');
+		System.debug('last one');
 	}
 }
