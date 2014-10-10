@@ -8,4 +8,7 @@ public with sharing class SecondClass {
 	public void foo(){
 		System.debug('last one');
 	}
+	public void newBranchNewMethod(){
+		System.debug('last one');
+	}
 }
